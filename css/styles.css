@@ -1,0 +1,153 @@
+body
+{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+h1
+{
+    font-size: 5.625rem;
+    margin:100px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 50%;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin: 30px auto 0 auto;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p
+{
+    line-height: 2;
+}
+span
+{
+    text-decoration: underline;
+}
+.top-container
+{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 50px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud
+{   
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Bio
+{
+    width: 40%;
+    margin: auto;
+}
+a
+{
+    color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+    padding: 5px 20px 10px 20px;
+}
+a:hover
+{
+     color: #EAF6F6;
+}
+.subtitle
+{
+    font-weight: normal;
+}
+.skill-row
+{
+    margin:100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.skill-1 
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-2
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.middle-container
+{
+    padding-bottom: 10px;
+    margin:100px 0;
+}
+hr
+{
+    border: dotted;
+    border-top: none;
+    width: 5%;
+    color: #EAF6F6; 
+    border-width: 6px;
+    margin: 100px auto 100px auto;
+}
+.btn 
+{
+    box-shadow: 0px 1px 0px 0px #276873;
+    background:linear-gradient(to bottom, #05d7e6 5%, #408c99 100%);
+    background-color:#05d7e6;
+    border-radius:6px;
+    border:1px solid #29668f;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px -1px 0px #3d768a;
+}
+.btn:hover 
+{
+    background:linear-gradient(to bottom, #408c99 5%, #05d7e6 100%);
+    background-color:#408c99;
+}
+.btn:active 
+{
+    position:relative;
+    top:1px;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.copyright
+{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.contact-message
+{
+    width: 40%;
+    margin: 40px auto 60px;
+}
