@@ -36,8 +36,8 @@ span
 }
 .top-container
 {
-    width: 100%;
-    background-color: #E4F9F5;
+    width:100%;
+    background-color:#E4F9F5;
     position: relative;
     padding-top: 50px;
 }
@@ -49,10 +49,14 @@ span
     
 }
 .bottom-cloud
-{   
+{  
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+.mountain
+{
+    width: 50%;
 }
 .Bio
 {
