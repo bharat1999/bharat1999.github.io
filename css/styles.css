@@ -36,6 +36,7 @@ span
 }
 .top-container
 {
+    width: 100%;
     background-color: #E4F9F5;
     position: relative;
     padding-top: 50px;
