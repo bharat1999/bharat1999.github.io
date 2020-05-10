@@ -81,7 +81,7 @@ a:hover
 }
 .skill-row
 {
-    margin:20px 0;
+    margin:20px auto;
     width: 80%;
     text-align: left;
     line-height: 2;
