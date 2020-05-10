@@ -16,6 +16,7 @@ h1
 }
 h2
 {
+    font-weight: bolder;
     font-family: 'Montserrat', sans-serif;
     font-size: 200%;
     margin: 1.875rem auto 1rem auto;
@@ -24,6 +25,7 @@ h2
 }
 h3
 {
+    font-weight: normal;
     font-size: 1.2rem;
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
@@ -42,7 +44,7 @@ span
 
     background-color:#E4F9F5;
     position: relative;
-    padding-top: 50px;
+    padding-top:1px;
 }
 .top-cloud
 {
@@ -61,12 +63,7 @@ span
 }
 .mountain
 {
-    width: 50%;
-}
-.Bio
-{
-    width: 40%;
-    margin: auto;
+    width: 55%;
 }
 a
 {
@@ -84,69 +81,40 @@ a:hover
 }
 .skill-row
 {
-    margin:100px auto 100px auto;
+    margin:20px 0;
     width: 80%;
     text-align: left;
     line-height: 2;
 }
-.skill-1 
+.skill-image-1
 {
-    width: 22%;
+    width: 10%;
     float: left;
     margin-right: 30px;
 }
-.skill-2
+.skill-image-2
 {
-    width: 22%;
+    width: 10%;
     float: right;
-    margin-left: 30px;
+    margin-right: 30px;
 }
 .middle-container
 {
-    padding-bottom: 10px;
-    margin:100px 0;
+    padding: 50px 0;
 }
 hr
 {
     border: dotted;
     border-top: none;
     width: 5%;
-    color: #EAF6F6; 
+    color: #74d4c0; 
     border-width: 6px;
     margin: 100px auto 100px auto;
-}
-.btn 
-{
-    box-shadow: 0px 1px 0px 0px #276873;
-    background:linear-gradient(to bottom, #05d7e6 5%, #408c99 100%);
-    background-color:#05d7e6;
-    border-radius:6px;
-    border:1px solid #29668f;
-    display:inline-block;
-    cursor:pointer;
-    color:#ffffff;
-    font-family:Arial;
-    font-size:15px;
-    font-weight:bold;
-    padding:6px 24px;
-    text-decoration:none;
-    text-shadow:0px -1px 0px #3d768a;
-}
-.btn:hover 
-{
-    background:linear-gradient(to bottom, #408c99 5%, #05d7e6 100%);
-    background-color:#408c99;
-}
-.btn:active 
-{
-    position:relative;
-    top:1px;
 }
 .bottom-container
 {
     background-color: #66BFBF;
-    margin-top: 50px;
-    margin-bottom: 0px;
+    
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -156,12 +124,25 @@ hr
     font-size: 0.75rem;
     padding: 20px 0;
 }
-.contact-message
-{
-    width: 40%;
-    margin: 40px auto 60px;
-}
-.darkmode--activated .top-container
-{
-    background-color:#162447;
-}
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+  
