@@ -12,13 +12,13 @@ h1
     margin:10% auto 0 auto;
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
-    line-height: 50%;
+    line-height: 80%;
 }
 h2
 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 250%;
-    margin: 1.875rem auto 0 auto;
+    font-size: 200%;
+    margin: 1.875rem auto 1rem auto;
     color: #66BFBF;
     padding-bottom: 10px;
 }
@@ -48,15 +48,15 @@ span
 {
     position: absolute;
     top: 1.875rem;
-    left: 70%;
-    width:10%;
+    left: 80%;
+    width:15%;
     
 }
 .bottom-cloud
 {  
     position: absolute;
-    
-    width: 10%;
+    left: 10%;
+    width: 15%;
 }
 .mountain
 {
