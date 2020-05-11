@@ -1,39 +1,58 @@
 /* DARK MODE */
 
 .dark-mode .top-container{
-    background-color: #000272;
+    background-color: #232931;
 }
 .dark-mode .middle-container
 {
-    background-color: #341677;
+    background-color: #393e46;
 }
 .dark-mode .navbar
 {
-    background-color: #000272;
+    background-color: #232931;
+}
+.dark-mode .bottom-container
+{
+    background-color: #232931;
 }
 .dark-mode h1
 {
-    color:#a32f80;
+    color:#4ecca3;
 }
 .dark-mode h2
 {
-    color: #ff6363;
+    color: #4ecca3;
 }
 .dark-mode h3
 {
-    color: #ff6363;
+    color: #4ecca3;
 }
 .dark-mode p{
-    color:#eae7af;
+    color:#eeeeee;
 }
 .dark-mode span{
-    color:#eae7af;
+    color:#eeeeee;
 }
 .dark-mode .dark
 {
     color: white;
 }
-
+.dark-mode hr
+{
+    color: #4ecca3;
+}
+.dark-mode .btn-default
+{
+    background-color: #4ecca3;
+}
+.dark-mode i
+{
+    color: #4ecca3;
+}
+.dark-mode .mail
+{
+    color: #eeeeee;
+}
 /* DARK MODE CSS ENDS */
 
 body

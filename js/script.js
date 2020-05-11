@@ -29,3 +29,18 @@
   });
 
 })(jQuery); // End of use strict
+
+function changeImage()
+{
+var img1="https://media.giphy.com/media/TercUvhYRPkmkDUNZk/giphy.gif",
+    img2="https://media.giphy.com/media/JOXMjlx3PCjcYRmCzu/giphy.gif";
+var imgElement = document.getElementById('image');
+imgElement.src = (imgElement.src === img1)? img2 : img1;
+}
+
+function myFunction() 
+{
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  changeImage();
+}
