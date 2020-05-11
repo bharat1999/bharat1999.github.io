@@ -217,6 +217,8 @@ hr
 }
 .dark
 {
+    color: #30e3ca;
+    border-color:#11999e ;
     position: fixed;
     left: 90%;
     top: 90%;
