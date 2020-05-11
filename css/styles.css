@@ -4,13 +4,6 @@ body
     text-align: center;
     color: #40514e;
 }
-header {
-    padding: 156px 0 100px;
-  }
-  
-  section {
-    padding: 150px 0;
-  }
 h1
 {
     font-size: 562.5%;
@@ -51,7 +44,7 @@ span
 
     background-color:#e4f9f5;
     position: relative;
-    padding:1px 0 0 0;
+    padding:3rem 0 0 0;
 }
 .top-cloud
 {
