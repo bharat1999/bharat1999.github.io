@@ -83,7 +83,7 @@ h1
     font-size: 562.5%;
     margin:10% auto 0 auto;
     font-family: 'Sacramento', cursive;
-    color:#28abb9;
+    color:#FF865E;
     line-height: 80%;
 }
 h2
@@ -92,7 +92,7 @@ h2
     font-family: "bungee shade";
     font-size: 200%;
     margin: 1.875rem auto 1rem auto;
-    color: #7579e7;
+    color: #F0A500;
     padding-bottom: 10px;
 }
 h3
@@ -116,7 +116,7 @@ span
 }
 .top-container
 {
-    background-color:#87F1FF;
+    background-color:#CEE5D0;
     position: relative;
     padding-top: 2rem;
     margin-top:3rem;
@@ -190,16 +190,19 @@ hr
 }
 .bottom-container
 {
-    background-color: #40514e;
+    background-color: #CEE5D0;
     padding-top: 50px;
     padding-bottom: 20px;
 }
 .copyright
 {
-    color: #EAF6F6;
+    color: #FF7777;
     font-size: 0.75rem;
     padding: 20px 0;
 }
+
+
+
 .fab
 {
     color:#11999e;
