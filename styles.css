@@ -1,34 +1,34 @@
 /* DARK MODE */
 
 .dark-mode .top-container {
-  background-color: #000000;
+  background-color: #d31313;
 }
 .dark-mode .middle-container {
-  background-color: #000000;
+  background-color: #16b516;
 }
 .dark-mode .navbar {
-  background-color: #545658;
+  background-color: #9c9014;
 }
 .dark-mode .bottom-container {
-  background-color: #232425;
+  background-color: #126dc8;
 }
 .dark-mode h1 {
-  color: #4ecca3;
+  color: #14ca8d;
 }
 .dark-mode h2 {
-  color: #4ecca3;
+  color: #c39710;
 }
 .dark-mode h3 {
-  color: #4ecca3;
+  color: #9a0fea;
 }
 .dark-mode p {
-  color: #eeeeee;
+  color: #068ab6;
 }
 .dark-mode span {
   color: #eeeeee;
 }
 .dark-mode .dark {
-  color: white;
+  color: rgb(154, 17, 69);
 }
 .dark-mode hr {
   color: #4ecca3;
@@ -43,7 +43,7 @@
   color: #eeeeee;
 }
 .dark-mode .nav-link {
-  color: #eeeeee !important;
+  color: #da2222 !important;
 }
 .dark-mode .navbar-brand {
   color: #eeeeee;
@@ -57,13 +57,13 @@
 body {
   font-family: "Merriweather", serif;
   text-align: center;
-  color: #40514e;
+  color: #06a5e3;
 }
 .navbar {
-  background-color: #c1cfda;
+  background-color: #1193f7;
 }
 h1 {
-  font-size: 562.5%;
+  font-size: 569.5%;
   margin: 10% auto 0 auto;
   font-family: "Sacramento", cursive;
   color: #28abb9;
@@ -72,17 +72,17 @@ h1 {
 h2 {
   font-weight: bolder;
   font-family: "bungee shade";
-  font-size: 200%;
+  font-size: 500%;
   margin: 1.875rem auto 1rem auto;
   color: #1d24f3;
   padding-bottom: 10px;
 }
 h3 {
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.9rem;
   display: inline-block;
   font-family: "biorhyme";
-  color: #11999e;
+  color: #269e11;
   margin-top: 10%;
 }
 p {
@@ -91,13 +91,13 @@ p {
   line-height: 2;
 }
 span {
-  color: #59706c;
+  color: #1cefcc;
 }
 .top-container {
-  background-color: #87f1ff;
+  background-color: #00e1ff;
   position: relative;
   padding-top: 2rem;
-  margin-top: 3rem;
+  margin-top: 9rem;
 }
 .top-cloud {
   position: absolute;
@@ -112,7 +112,7 @@ span {
   width: 15%;
 }
 .mountain {
-  width: 55%;
+  width: 95%;
 }
 a {
   color: #11999e;
@@ -120,14 +120,14 @@ a {
   padding: 5px 20px 10px 20px;
 }
 a:hover {
-  color: #eaf6f6;
+  color: #b3ff00;
 }
 .subtitle {
   font-weight: normal;
 }
 .skill-row {
   margin: 20px auto;
-  width: 80%;
+  width: 100%;
   text-align: left;
   line-height: 2;
 }
@@ -153,31 +153,31 @@ hr {
   margin: 100px auto 100px auto;
 }
 .bottom-container {
-  background-color: #40514e;
+  background-color: #19f3cb;
   padding-top: 50px;
   padding-bottom: 20px;
 }
 .copyright {
-  color: #eaf6f6;
+  color: #0a0c80;
   font-size: 0.75rem;
   padding: 20px 0;
 }
 .fab {
-  color: #2d3838;
+  color: #00d4d4;
 }
 .fab:hover {
-  color: #e4f9f5;
+  color: #1aedc6;
 }
 .btn-default {
   background-color: #11999e;
-  color: #e4f9f5;
+  color: #15d2b0;
 }
 .btn-default:hover {
   color: #11999e;
   background-color: #40514e;
 }
 .dark {
-  color: #30e3ca;
+  color: #4be330;
   border-color: #00ff80;
   position: fixed;
   left: 90%;
