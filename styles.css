@@ -63,10 +63,10 @@ body {
   background-color: #c1cfda;
 }
 h1 {
-  font-size: 562.5%;
+  font-size: 555.5%;
   margin: 10% auto 0 auto;
   font-family: "Sacramento", cursive;
-  color: #28abb9;
+  color: #051618;
   line-height: 80%;
 }
 h2 {
@@ -74,12 +74,12 @@ h2 {
   font-family: "bungee shade";
   font-size: 200%;
   margin: 1.875rem auto 1rem auto;
-  color: #1d24f3;
+  color: #3338be;
   padding-bottom: 10px;
 }
 h3 {
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   display: inline-block;
   font-family: "biorhyme";
   color: #11999e;
@@ -91,10 +91,10 @@ p {
   line-height: 2;
 }
 span {
-  color: #59706c;
+  color: #31423f;
 }
 .top-container {
-  background-color: #87f1ff;
+  background-color: #010505;
   position: relative;
   padding-top: 2rem;
   margin-top: 3rem;
@@ -158,7 +158,7 @@ hr {
   padding-bottom: 20px;
 }
 .copyright {
-  color: #eaf6f6;
+  color: #90b4b4;
   font-size: 0.75rem;
   padding: 20px 0;
 }
