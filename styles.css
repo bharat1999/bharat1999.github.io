@@ -1,16 +1,16 @@
 /* DARK MODE */
 
 .dark-mode .top-container {
-  background-color: #000000;
+  background-color: #a81313;
 }
 .dark-mode .middle-container {
   background-color: #000000;
 }
 .dark-mode .navbar {
-  background-color: #545658;
+  background-color: #2f9656;
 }
 .dark-mode .bottom-container {
-  background-color: #232425;
+  background-color: #899123;
 }
 .dark-mode h1 {
   color: #4ecca3;
@@ -19,7 +19,7 @@
   color: #4ecca3;
 }
 .dark-mode h3 {
-  color: #4ecca3;
+  color: #311f53;
 }
 .dark-mode p {
   color: #eeeeee;
@@ -31,7 +31,7 @@
   color: white;
 }
 .dark-mode hr {
-  color: #4ecca3;
+  color: #3319a7;
 }
 .dark-mode .btn-default {
   background-color: #4ecca3;
